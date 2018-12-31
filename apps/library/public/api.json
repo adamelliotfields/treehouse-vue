@@ -1,0 +1,44 @@
+[
+  {
+    "title": "Hop on Pop",
+    "description": "A delightful children's book.",
+    "type": "Book",
+    "contributor": "Dr. Suess"
+  },
+  {
+    "title": "The Joy of Painting",
+    "description": "Create a world of happy little trees!",
+    "type": "DVD",
+    "contributor": "Bob Ross"
+  },
+  {
+    "title": "Supernatural: The Complete 12th Season",
+    "description": "A (literally) neverending roadtrip.",
+    "type": "DVD",
+    "contributor": ""
+  },
+  {
+    "title": "Planet Earth II",
+    "description": "Hours of beautiful but heart attack-inducing nature footage",
+    "type": "Streaming Video",
+    "contributor": "David Attenborough"
+  },
+  {
+    "title": "Titanic",
+    "description": "The boat sinks.",
+    "type": "DVD",
+    "contributor": "James Cameron"
+  },
+  {
+    "title": "The Sirens of Titan",
+    "description": "Mankind flung its advance agents ever outward, ever outward... it flung them like stones.",
+    "type": "Book",
+    "contributor": "Kurt Vonnegut"
+  },
+  {
+    "title": "Better Call Saul",
+    "description": "A slow-burning Breaking Bad prequel.",
+    "type": "Streaming Video",
+    "contributor": ""
+  }
+]
